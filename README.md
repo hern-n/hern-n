@@ -1,3 +1,5 @@
+![Texto alternativo](Banner Hernán Olmeda.png)
+
 # ¡Hola! 👋
 
 Soy Hernán, un apasionado de la tecnología, la música 🎺 y la programación.
