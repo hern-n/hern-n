@@ -1,19 +1,13 @@
-## Hi there 👋
-![Mi banner](![Texto alternativo](https://www.ejemplo.com/imagen.jpg)
-)
+# ¡Hola! 👋
 
+Soy Hernán, un apasionado de la tecnología, la música 🎺 y la programación.
 
-<!--
-**hern-n/hern-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Proyectos destacados
+- [Locuras de productos](https://www.locurasdeproductos.es): Una web creativa que muestra productos únicos.
+- [Maqueen + micro:bit](https://github.com/hernan-dev/maqueen-project): Controlando robots con micro:bit.
 
-Here are some ideas to get you started:
+## 📫 Contacto
+- 📧 Email: hernan@example.com
+- 🌐 [Mi web personal](https://hernan.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! 😄
