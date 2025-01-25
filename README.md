@@ -1,4 +1,4 @@
-![Texto alternativo](Banner Hernán Olmeda.png)
+![Texto alternativo](Banner_Hernán_Olmeda.png)
 
 # ¡Hola! 👋
 
