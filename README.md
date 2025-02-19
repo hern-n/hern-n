@@ -11,7 +11,7 @@ Estoy estudiando 3º de la ESO, y espero poder dedicarme al desarrollo de codigo
 - [Robocampeones](https://sites.google.com/view/robocampeonesfuenlabrada/): ya he participado con mi equipo en este concurso, 
 y espero poder vlver a presentarme. Este años planificamos hacer un robot de sumo basado en Arduino.
 
-## Mi otro perfil
+## 🖥️ Mi otro perfil
 Tengo otro perfil del instituto **[aquí](https://github.com/Inst-hern-n)**. Podeis vistarlo, ¡Seguro que os interesa!
 
 ## 📫 Contacto
