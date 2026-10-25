@@ -2,7 +2,7 @@
 
 # ¡Hola a todos! 👋
 
-Soy **Hernán Olmeda Martín**, un apasionado de la tecnología 💻, la música 🎺 y la programación **</>**. Estoy cursando **4º de la ESO** y con **15 años** aspiro a dedicarme profesionalmente al desarrollo de software. Llevo años creando proyectos, participando en concursos de robótica y explorando diferentes áreas de la programación.
+Soy **Hernán Olmeda Martín**, un apasionado de la tecnología 💻, la música 🎺 y la programación **</>**. Estoy cursando **1º de Bachillerato** y con **16 años** aspiro a dedicarme profesionalmente al desarrollo de software. Llevo años creando proyectos, participando en concursos de robótica y explorando diferentes áreas de la programación.
 
 > *"Estudiando (y aprendiendo mucho)"*
 
